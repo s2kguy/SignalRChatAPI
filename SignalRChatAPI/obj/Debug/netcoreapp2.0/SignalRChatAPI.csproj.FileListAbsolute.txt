@@ -1,0 +1,11 @@
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\bin\Debug\netcoreapp2.0\SignalRChatAPI.deps.json
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\bin\Debug\netcoreapp2.0\SignalRChatAPI.runtimeconfig.json
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\bin\Debug\netcoreapp2.0\SignalRChatAPI.runtimeconfig.dev.json
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\bin\Debug\netcoreapp2.0\SignalRChatAPI.dll
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\bin\Debug\netcoreapp2.0\SignalRChatAPI.pdb
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.csproj.CoreCompileInputs.cache
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.AssemblyInfoInputs.cache
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.AssemblyInfo.cs
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.dll
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.pdb
+C:\Users\ryans\source\repos\SignalRChatAPI\SignalRChatAPI\obj\Debug\netcoreapp2.0\SignalRChatAPI.csprojResolveAssemblyReference.cache
